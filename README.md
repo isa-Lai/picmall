@@ -15,4 +15,8 @@ An image repository system to display pictures.
 - MySQL
 - Element-Plus
 - MyBatis-Plus
+- Axions
 
+
+Note:
+- ES6
