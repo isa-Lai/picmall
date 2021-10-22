@@ -9,7 +9,7 @@ An image repository system to display pictures.
 2. cd to the subfolder `picmall`
 3. run `npm sun serve` in the cmd
 
-## Frameware
+## Frameware and Plug-ins
 - Vue
 - SpringBoot
 - MySQL
